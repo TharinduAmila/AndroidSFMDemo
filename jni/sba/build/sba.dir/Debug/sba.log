@@ -1,0 +1,25 @@
+﻿Build started 2/12/2015 2:21:02 PM.
+     1>Project "C:\Users\amila\Downloads\sba-1.6\build\sba.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/amila/Downloads/sba-1.6/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\amila\Downloads\sba-1.6\build\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\amila\Downloads\sba-1.6\." /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"sba.dir\Debug\\" /Fd"sba.dir\Debug\vc110.pdb" /Gd /TC /errorReport:prompt ..\sba_levmar.c ..\sba_levmar_wrap.c ..\sba_lapack.c ..\sba_crsm.c ..\sba_chkjac.c
+         sba_levmar.c
+         sba_levmar_wrap.c
+         sba_lapack.c
+         sba_crsm.c
+         sba_chkjac.c
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\amila\Downloads\sba-1.6\build\Debug\sba.lib" /NOLOGO /MACHINE:X64 sba.dir\Debug\sba_levmar.obj
+         sba.dir\Debug\sba_levmar_wrap.obj
+         sba.dir\Debug\sba_lapack.obj
+         sba.dir\Debug\sba_crsm.obj
+         sba.dir\Debug\sba_chkjac.obj
+         sba.vcxproj -> C:\Users\amila\Downloads\sba-1.6\build\Debug\sba.lib
+     1>Done Building Project "C:\Users\amila\Downloads\sba-1.6\build\sba.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.64

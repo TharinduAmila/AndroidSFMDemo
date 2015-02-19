@@ -1,0 +1,4 @@
+C:/Users/amila/Downloads/sba-1.6/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/amila/Downloads/sba-1.6/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/amila/Downloads/sba-1.6/build/demo/CMakeFiles/eucsbademo.dir
+C:/Users/amila/Downloads/sba-1.6/build/CMakeFiles/sba.dir
